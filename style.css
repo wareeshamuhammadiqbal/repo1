@@ -1,0 +1,50 @@
+*{
+    background: radial-gradient(circle, rgba(238,174,230,0.5999649859943977) 0%, rgba(148,187,233,1) 100%);
+}
+
+.flex{
+    display: flex;
+}
+
+
+
+
+ img{
+    width: Hug(116px) ;
+    height: Hug(26px) ;
+    top: 39px ;
+    left: 30%;
+    gap: 10px ;
+}
+
+ a{
+    
+    top: 43px;
+    left: 800px;
+    gap: 40px;
+   
+} 
+
+/* .navbarimg2{
+    width: Fixed (140px)px;
+    height: Fixed (40px)px;
+    top: 32px;
+    left: 300px;
+    padding: 5px 26px 5px 26px;
+    gap: 10px;
+    border-radius: 10px 0px 0px 0px;
+    opacity: 0px;
+    background: #000000;
+
+} */
+/* 
+.h1{
+    font-family: Roboto;
+font-size: 72px;
+font-weight: 700;
+line-height: 84.38px;
+text-align: left;
+background: linear-gradient(90deg, #4776E6 0%, #8E54E9 100%);
+
+
+} */
